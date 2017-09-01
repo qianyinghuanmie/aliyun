@@ -2,7 +2,7 @@
 <p>计划是做一个完整项目，目前只是一个express的小demo</p>
 <h3>工具</h3>
     <ul>
-        <li><a href="http://www.cnblogs.com/powertoolsteam/p/MVC_knowledge.html" target="_blank">阿里云服务器</a></li>
+        <li><a href="https://www.aliyun.com/" target="_blank">阿里云服务器</a></li>
         <li><a href="https://nodejs.org/en/" target="_blank">node.js</a></li>
         <li><a href="http://pm2.keymetrics.io/" target="_blank">pm2</a></li>
         <li><a href="http://www.expressjs.com.cn//" target="_blank">express</a></li>
